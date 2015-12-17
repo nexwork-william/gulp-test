@@ -1,0 +1,25 @@
+{
+  "name": "gulp-test",
+  "authors": [
+    "nexwork-william <w.meuwissen@nexwork.nl>"
+  ],
+  "description": "test van william",
+  "main": "gulp.js",
+  "moduleType": [],
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nexwork-william/gulp-test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
